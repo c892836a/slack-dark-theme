@@ -1383,6 +1383,10 @@ a.c-message__sender_link {
     background: #323232;
 }
 
+.c-message_kit__thread_message {
+    background-color: #323232;
+}
+
 .c-icon_button--light,
 .c-icon_button--light.c-button-unstyled,
 .c-icon_button--light:link {
