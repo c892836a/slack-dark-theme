@@ -3815,3 +3815,6 @@ c-search_autocomplete__query_parts .token:hover {
         color: white;
         border-left: 1px solid #3c3c3c !important;
     }
+    .p-rich_text_section {
+        color: white;
+    }
